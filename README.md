@@ -14,7 +14,7 @@ The goal of this project is to leverage the capabilities of both the English and
 
 ## Usage
 
-`python merge_self_attn_head.py --model1 [path_to_english_model] --model2 [path_to_korean_model] --output [output_directory] --multiple 2`
+    python merge_self_attn_head.py --model1 [path_to_english_model] --model2 [path_to_korean_model] --output [output_directory] --multiple 2
 
 Replace the following:
 - `[path_to_english_model]`: The path to the English-based Gemma 7B model
