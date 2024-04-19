@@ -20,3 +20,6 @@ Replace the following:
 - `[path_to_english_model]`: The path to the English-based Gemma 7B model
 - `[path_to_korean_model]`: The path to the Korean-based Gemma 7B model
 - `[output_directory]`: The directory where the merged model will be saved
+
+## Model sample
+https://huggingface.co/lcw99/google-gemma-10B-ko-chang
